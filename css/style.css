@@ -1,3 +1,15 @@
-div{
+div {
     color: rgb(87, 92, 77);
+}
+
+p {
+    color: red;
+}
+
+li {
+    color: blue;
+}
+
+.li {
+    color:black;
 }
