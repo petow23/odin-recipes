@@ -1,17 +1,27 @@
+body{
+    width: 50%;
+    margin-left:auto;
+    margin-right:auto;
+    text-align: center;
+}
+
 div {
     color: rgb(87, 92, 77);
 }
 
 p {
-    color: red;
+    color: rgb(3, 3, 3);
 }
 
 li {
-    color: blue;
+    color: rgb(140, 140, 155);
+    text-align: left;
+    margin-left: 50px;
 }
 
 .li {
     color:black;
+    text-align: left;
 }
 
 h1{
